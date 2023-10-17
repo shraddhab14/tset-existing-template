@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tset-existing-template
+  annotations:
+    github.com/project-slug: shraddhab14/tset-existing-template
+spec:
+  type: other
+  lifecycle: unknown
+  owner: shraddhab14
